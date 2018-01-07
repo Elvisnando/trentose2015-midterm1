@@ -14,6 +14,7 @@ var tmpl = ' <li id="ID">' +
            ' </li> ';
 
 $(document).ready(function(){
+	ciaoo  cdcdc ;d
 
   
 });
